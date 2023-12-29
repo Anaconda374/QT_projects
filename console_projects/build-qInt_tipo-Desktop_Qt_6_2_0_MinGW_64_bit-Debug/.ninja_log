@@ -1,0 +1,14 @@
+# ninja log v5
+1	255	7068599589621693	qInt_tipo_autogen/timestamp	dd1f5bd72aa0c2c7
+1	255	7068599589621693	qInt_tipo_autogen/mocs_compilation.cpp	dd1f5bd72aa0c2c7
+1	255	7068599589621693	D:/QT_projects/build-qInt_tipo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qInt_tipo_autogen/timestamp	dd1f5bd72aa0c2c7
+1	255	7068599589621693	D:/QT_projects/build-qInt_tipo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qInt_tipo_autogen/mocs_compilation.cpp	dd1f5bd72aa0c2c7
+257	383	7068599591644199	CMakeFiles/qInt_tipo.dir/qInt_tipo_autogen/mocs_compilation.cpp.obj	52a15589d48d354
+264	3795	7068599625770283	CMakeFiles/qInt_tipo.dir/main.cpp.obj	3620f918e161e7fa
+3800	4019	7068599627854886	qInt_tipo.exe	9b68c3157754952
+7	225	7068600398364569	qInt_tipo_autogen/timestamp	dd1f5bd72aa0c2c7
+7	225	7068600398364569	qInt_tipo_autogen/mocs_compilation.cpp	dd1f5bd72aa0c2c7
+7	225	7068600398364569	D:/QT_projects/build-qInt_tipo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qInt_tipo_autogen/timestamp	dd1f5bd72aa0c2c7
+7	225	7068600398364569	D:/QT_projects/build-qInt_tipo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qInt_tipo_autogen/mocs_compilation.cpp	dd1f5bd72aa0c2c7
+245	3736	7068600433480911	CMakeFiles/qInt_tipo.dir/main.cpp.obj	3620f918e161e7fa
+3736	3914	7068600435092061	qInt_tipo.exe	9b68c3157754952

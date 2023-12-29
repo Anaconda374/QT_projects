@@ -1,0 +1,8 @@
+# ninja log v5
+1	288	7179195985211190	qdate_qtime_qdatetime_tipos_autogen/timestamp	40c8e4206723d93a
+1	288	7179195985211190	qdate_qtime_qdatetime_tipos_autogen/mocs_compilation.cpp	40c8e4206723d93a
+1	288	7179195985211190	D:/QT_projects/build-qdate_qtime_qdatetime_tipos-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qdate_qtime_qdatetime_tipos_autogen/timestamp	40c8e4206723d93a
+1	288	7179195985211190	D:/QT_projects/build-qdate_qtime_qdatetime_tipos-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qdate_qtime_qdatetime_tipos_autogen/mocs_compilation.cpp	40c8e4206723d93a
+289	385	7179195987054179	CMakeFiles/qdate_qtime_qdatetime_tipos.dir/qdate_qtime_qdatetime_tipos_autogen/mocs_compilation.cpp.obj	92814c8283724951
+296	3224	7179196015323099	CMakeFiles/qdate_qtime_qdatetime_tipos.dir/main.cpp.obj	a77808f437032d9a
+3230	3405	7179196017188995	qdate_qtime_qdatetime_tipos.exe	ddcf0bc60d88e6ed

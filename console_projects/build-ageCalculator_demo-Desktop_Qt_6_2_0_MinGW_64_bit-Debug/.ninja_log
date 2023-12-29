@@ -1,0 +1,25 @@
+# ninja log v5
+0	108	7056528972246634	ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+0	108	7056528972246634	ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+0	108	7056528972246634	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+0	108	7056528972246634	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+108	158	7056528973117595	CMakeFiles/ageCalculator_demo.dir/ageCalculator_demo_autogen/mocs_compilation.cpp.obj	8c27dd449c889914
+116	1161	7056528983146136	CMakeFiles/ageCalculator_demo.dir/agecal.cpp.obj	4fc9d88ae518fbcf
+112	1454	7056528985989650	CMakeFiles/ageCalculator_demo.dir/main.cpp.obj	592a9871d6f4ec55
+1454	1559	7056528987019394	ageCalculator_demo.exe	f6c04dd8e4c0a483
+3	76	7056529579186097	ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	76	7056529579186097	ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+3	76	7056529579186097	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	76	7056529579186097	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+3	72	7056529702664762	ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	72	7056529702664762	ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+3	72	7056529702664762	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	72	7056529702664762	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+73	1486	7056529716773480	CMakeFiles/ageCalculator_demo.dir/main.cpp.obj	592a9871d6f4ec55
+1487	1579	7056529717564456	ageCalculator_demo.exe	f6c04dd8e4c0a483
+3	71	7056529864690648	ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	71	7056529864690648	ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+3	71	7056529864690648	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/timestamp	7b85447ad15d85e0
+3	71	7056529864690648	D:/QT_projects/build-ageCalculator_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/ageCalculator_demo_autogen/mocs_compilation.cpp	7b85447ad15d85e0
+72	1397	7056529877956957	CMakeFiles/ageCalculator_demo.dir/main.cpp.obj	592a9871d6f4ec55
+1397	1489	7056529878750770	ageCalculator_demo.exe	f6c04dd8e4c0a483

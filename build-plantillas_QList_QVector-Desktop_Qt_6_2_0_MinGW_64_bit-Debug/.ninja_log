@@ -1,0 +1,8 @@
+# ninja log v5
+1	266	7180027117667040	plantillas_QList_QVector_autogen/timestamp	d8f8341079f908e3
+1	266	7180027117667040	plantillas_QList_QVector_autogen/mocs_compilation.cpp	d8f8341079f908e3
+1	266	7180027117667040	D:/QT_projects/build-plantillas_QList_QVector-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/plantillas_QList_QVector_autogen/timestamp	d8f8341079f908e3
+1	266	7180027117667040	D:/QT_projects/build-plantillas_QList_QVector-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/plantillas_QList_QVector_autogen/mocs_compilation.cpp	d8f8341079f908e3
+267	352	7180027119343435	CMakeFiles/plantillas_QList_QVector.dir/plantillas_QList_QVector_autogen/mocs_compilation.cpp.obj	c0ebf2159389e7df
+274	3491	7180027150676235	CMakeFiles/plantillas_QList_QVector.dir/main.cpp.obj	98c5bfdb4e2148ac
+3497	3724	7180027152974103	plantillas_QList_QVector.exe	adfc9a183567618e

@@ -1,0 +1,24 @@
+# ninja log v5
+2	882	7174883241943920	parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+2	882	7174883241943920	parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+2	882	7174883241943920	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+2	882	7174883241943920	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+899	3748	7174883271967479	CMakeFiles/parent_hierarchy.dir/test_parent.cpp.obj	4ee686e5d1c25dc9
+882	3789	7174883272441568	CMakeFiles/parent_hierarchy.dir/parent_hierarchy_autogen/mocs_compilation.cpp.obj	c7b4f257cd15f952
+890	3910	7174883273665008	CMakeFiles/parent_hierarchy.dir/test_child.cpp.obj	bdefdf853983d286
+908	4253	7174883277105961	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	329011490093030b
+4254	4549	7174883279929728	parent_hierarchy.exe	5d224f9e3b50809d
+22	865	7174885488998655	parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+22	865	7174885488998655	parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+22	865	7174885488998655	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+22	865	7174885488998655	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+872	3671	7174885519501039	CMakeFiles/parent_hierarchy.dir/test_child.cpp.obj	bdefdf853983d286
+865	3963	7174885522431099	CMakeFiles/parent_hierarchy.dir/parent_hierarchy_autogen/mocs_compilation.cpp.obj	c7b4f257cd15f952
+881	4143	7174885524184745	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	329011490093030b
+4144	4386	7174885526600267	parent_hierarchy.exe	5d224f9e3b50809d
+19	326	7174885796594046	parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+19	326	7174885796594046	parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+19	326	7174885796594046	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	30df96e801ebae8c
+19	326	7174885796594046	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	30df96e801ebae8c
+331	3410	7174885827392662	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	329011490093030b
+3411	3656	7174885829861511	parent_hierarchy.exe	5d224f9e3b50809d

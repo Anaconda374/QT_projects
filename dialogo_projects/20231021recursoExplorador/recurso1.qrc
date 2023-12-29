@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/res1">
+        <file>simbolos1/accept.png</file>
+        <file>simbolos1/add.png</file>
+        <file>simbolos1/anchor.png</file>
+        <file>simbolos1/application_add.png</file>
+        <file>simbolos1/application_cascade.png</file>
+        <file>simbolos1/application_delete.png</file>
+        <file>simbolos1/application_double.png</file>
+        <file>simbolos1/application_edit.png</file>
+        <file>simbolos1/application_error.png</file>
+        <file>simbolos1/application_form.png</file>
+        <file>simbolos1/application_form_add.png</file>
+        <file>simbolos1/application_form_delete.png</file>
+        <file>simbolos1/application_form_edit.png</file>
+        <file>simbolos1/application_form_magnify.png</file>
+        <file>simbolos1/application_get.png</file>
+        <file>simbolos1/application_go.png</file>
+        <file>simbolos1/application_home.png</file>
+        <file>simbolos1/application_key.png</file>
+        <file>simbolos1/application_lightning.png</file>
+        <file>simbolos1/application_link.png</file>
+        <file>simbolos1/application_osx.png</file>
+        <file>simbolos1/application_osx_terminal.png</file>
+        <file>simbolos1/application_put.png</file>
+        <file>simbolos1/application_side_boxes.png</file>
+    </qresource>
+    <qresource prefix="/nombreColisionTest">
+        <file>simbolos3/cog.png</file>
+    </qresource>
+</RCC>

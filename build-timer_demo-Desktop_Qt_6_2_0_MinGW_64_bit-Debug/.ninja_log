@@ -1,0 +1,15 @@
+# ninja log v5
+1	899	7179162834204768	timer_demo_autogen/timestamp	71d6a07ade33c28a
+1	899	7179162834204768	timer_demo_autogen/mocs_compilation.cpp	71d6a07ade33c28a
+1	899	7179162834204768	D:/QT_projects/build-timer_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/timer_demo_autogen/timestamp	71d6a07ade33c28a
+1	899	7179162834204768	D:/QT_projects/build-timer_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/timer_demo_autogen/mocs_compilation.cpp	71d6a07ade33c28a
+907	4187	7179162868672374	CMakeFiles/timer_demo.dir/timer_demo_autogen/mocs_compilation.cpp.obj	37b49df365f0a7f0
+914	4236	7179162869218393	CMakeFiles/timer_demo.dir/test.cpp.obj	e3a1cd07b9d0bd43
+900	4630	7179162873108990	CMakeFiles/timer_demo.dir/main.cpp.obj	aaf3a4e37a19510f
+4631	4929	7179162876086420	timer_demo.exe	d72f4d15d7d4c648
+12	356	7179163556724833	timer_demo_autogen/timestamp	71d6a07ade33c28a
+12	356	7179163556724833	timer_demo_autogen/mocs_compilation.cpp	71d6a07ade33c28a
+12	356	7179163556724833	D:/QT_projects/build-timer_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/timer_demo_autogen/timestamp	71d6a07ade33c28a
+12	356	7179163556724833	D:/QT_projects/build-timer_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/timer_demo_autogen/mocs_compilation.cpp	71d6a07ade33c28a
+363	3265	7179163585845137	CMakeFiles/timer_demo.dir/test.cpp.obj	e3a1cd07b9d0bd43
+3265	3493	7179163588011657	timer_demo.exe	d72f4d15d7d4c648

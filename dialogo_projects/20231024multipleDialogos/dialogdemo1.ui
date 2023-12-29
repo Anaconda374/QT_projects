@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogDemo1</class>
+ <widget class="QDialog" name="DialogDemo1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>668</width>
+    <height>419</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>DialogDemo1</string>
+  </property>
+  <widget class="QPushButton" name="btnConPadre">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>110</y>
+     <width>441</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Abrir un diálogo que su padre es este diálogo principal</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnSinPadre">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>300</y>
+     <width>441</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Abrir un diálogo que no tiene padre</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="rotuloPrincipal">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>30</y>
+     <width>261</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>18</pointsize>
+     <italic>false</italic>
+    </font>
+   </property>
+   <property name="text">
+    <string>Principal Diálogo</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnConPadre_modalDialogo">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>200</y>
+     <width>441</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Abrir un diálogo como un &quot;modal diálogo&quot; que tiene el padre</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

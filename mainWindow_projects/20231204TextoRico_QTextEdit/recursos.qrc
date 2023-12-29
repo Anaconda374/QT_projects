@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>iconos/about.png</file>
+        <file>iconos/arrow_redo.png</file>
+        <file>iconos/arrow_undo.png</file>
+        <file>iconos/cancel.png</file>
+        <file>iconos/color.png</file>
+        <file>iconos/copy.png</file>
+        <file>iconos/cut.png</file>
+        <file>iconos/find.png</file>
+        <file>iconos/font.png</file>
+        <file>iconos/help.png</file>
+        <file>iconos/new.png</file>
+        <file>iconos/open.png</file>
+        <file>iconos/paste.png</file>
+        <file>iconos/save.png</file>
+        <file>iconos/saveas.png</file>
+        <file>iconos/select_all.png</file>
+        <file>iconos/text_align_center.png</file>
+        <file>iconos/text_align_justify.png</file>
+        <file>iconos/text_align_left.png</file>
+        <file>iconos/text_align_right.png</file>
+        <file>iconos/text_bold.png</file>
+        <file>iconos/text_italic.png</file>
+        <file>iconos/text_replace.png</file>
+        <file>iconos/text_strikethrough.png</file>
+        <file>iconos/text_underline.png</file>
+        <file>iconos/zoom_in.png</file>
+        <file>iconos/zoom_out.png</file>
+    </qresource>
+</RCC>

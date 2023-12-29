@@ -1,0 +1,24 @@
+# ninja log v5
+4	999	7059109591017822	parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+4	999	7059109591017822	parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+4	999	7059109591017822	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+4	999	7059109591017822	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+1017	4315	7059109625758108	CMakeFiles/parent_hierarchy.dir/test_parent.cpp.obj	334a478b4b6a4920
+1026	4358	7059109626184773	CMakeFiles/parent_hierarchy.dir/test_child.cpp.obj	e2c327a12da54f49
+1000	4444	7059109627060553	CMakeFiles/parent_hierarchy.dir/parent_hierarchy_autogen/mocs_compilation.cpp.obj	c7b4f257cd15f952
+1007	4748	7059109630096801	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	5a442326c70d7e30
+4749	5063	7059109633196398	parent_hierarchy.exe	5d224f9e3b50809d
+6	303	7059110338552800	parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+6	303	7059110338552800	parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+6	303	7059110338552800	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+6	303	7059110338552800	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+309	3114	7059110366604880	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	5a442326c70d7e30
+3114	3385	7059110369234268	parent_hierarchy.exe	5d224f9e3b50809d
+12	1003	7059115227233113	parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+12	1003	7059115227233113	parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+12	1003	7059115227233113	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/timestamp	b922a7b7c8d1152b
+12	1003	7059115227233113	D:/QT_projects/build-parent_hierarchy-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/parent_hierarchy_autogen/mocs_compilation.cpp	b922a7b7c8d1152b
+1004	4273	7059115261720863	CMakeFiles/parent_hierarchy.dir/parent_hierarchy_autogen/mocs_compilation.cpp.obj	c7b4f257cd15f952
+1023	4289	7059115262040457	CMakeFiles/parent_hierarchy.dir/test_parent.cpp.obj	334a478b4b6a4920
+1014	4725	7059115266273327	CMakeFiles/parent_hierarchy.dir/main.cpp.obj	5a442326c70d7e30
+4726	4986	7059115268852794	parent_hierarchy.exe	5d224f9e3b50809d

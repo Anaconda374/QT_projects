@@ -1,0 +1,8 @@
+# ninja log v5
+1	413	7180025050276349	qvariant_autogen/timestamp	99958de7403fdb22
+1	413	7180025050276349	qvariant_autogen/mocs_compilation.cpp	99958de7403fdb22
+1	413	7180025050276349	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/timestamp	99958de7403fdb22
+1	413	7180025050276349	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/mocs_compilation.cpp	99958de7403fdb22
+414	1116	7180025058147895	CMakeFiles/qvariant.dir/qvariant_autogen/mocs_compilation.cpp.obj	3cf13f13b97d361c
+421	5837	7180025105326004	CMakeFiles/qvariant.dir/main.cpp.obj	3ac5b6c4218a73ac
+5860	6326	7180025110150906	qvariant.exe	332c0c6c7366e851

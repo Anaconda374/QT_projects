@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/res2">
+        <file>simbolos2/drink.png</file>
+        <file>simbolos2/drink_empty.png</file>
+        <file>simbolos2/drive.png</file>
+        <file>simbolos2/drive_add.png</file>
+        <file>simbolos2/drive_burn.png</file>
+        <file>simbolos2/drive_cd.png</file>
+        <file>simbolos2/drive_cd_empty.png</file>
+        <file>simbolos2/drive_delete.png</file>
+        <file>simbolos2/drive_disk.png</file>
+        <file>simbolos2/drive_edit.png</file>
+        <file>simbolos2/drive_error.png</file>
+        <file>simbolos2/drive_go.png</file>
+        <file>simbolos2/drive_key.png</file>
+        <file>simbolos2/drive_link.png</file>
+        <file>simbolos2/drive_magnify.png</file>
+        <file>simbolos2/drive_network.png</file>
+        <file>simbolos2/drive_rename.png</file>
+        <file>simbolos2/drive_user.png</file>
+        <file>simbolos2/drive_web.png</file>
+        <file>simbolos2/dvd_add.png</file>
+        <file>simbolos2/dvd_delete.png</file>
+        <file>simbolos2/dvd_edit.png</file>
+        <file>simbolos2/dvd_error.png</file>
+        <file>simbolos2/dvd_go.png</file>
+    </qresource>
+    <qresource prefix="/nombreColisionTest">
+        <file>simbolos3/cog.png</file>
+        <file>simbolos3/coins.png</file>
+    </qresource>
+</RCC>

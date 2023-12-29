@@ -1,0 +1,18 @@
+# ninja log v5
+2	276	7067766743105231	template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+2	276	7067766743105231	template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+2	276	7067766743105231	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+2	276	7067766743105231	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+277	409	7067766745272454	CMakeFiles/template_no_qobject.dir/template_no_qobject_autogen/mocs_compilation.cpp.obj	5115074ecf7d5ec5
+16	225	7067766982956692	template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+16	225	7067766982956692	template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+16	225	7067766982956692	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+16	225	7067766982956692	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+245	3439	7067767015100233	CMakeFiles/template_no_qobject.dir/main.cpp.obj	7486a1aadcd7451e
+3443	3634	7067767017099322	template_no_qobject.exe	848c6487d344d3d1
+11	194	7067769877749956	template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+11	194	7067769877749956	template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+11	194	7067769877749956	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/timestamp	8e4108d7e6bbfb0d
+11	194	7067769877749956	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/mocs_compilation.cpp	8e4108d7e6bbfb0d
+196	4045	7067769916238165	CMakeFiles/template_no_qobject.dir/main.cpp.obj	7486a1aadcd7451e
+4046	4242	7067769918107326	template_no_qobject.exe	848c6487d344d3d1

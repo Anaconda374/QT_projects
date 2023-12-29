@@ -1,0 +1,9 @@
+# ninja log v5
+2	810	7180033427868885	qMap_autogen/timestamp	c9f5ccf3a8c59110
+2	810	7180033427868885	qMap_autogen/mocs_compilation.cpp	c9f5ccf3a8c59110
+2	810	7180033427868885	D:/QT_projects/build-qMap-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qMap_autogen/timestamp	c9f5ccf3a8c59110
+2	810	7180033427868885	D:/QT_projects/build-qMap-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qMap_autogen/mocs_compilation.cpp	c9f5ccf3a8c59110
+811	3997	7180033461177045	CMakeFiles/qMap.dir/qMap_autogen/mocs_compilation.cpp.obj	44000a4becdbdfd
+817	4121	7180033462401769	CMakeFiles/qMap.dir/perro.cpp.obj	c3d872f42f245e04
+829	5410	7180033475240553	CMakeFiles/qMap.dir/main.cpp.obj	1537dd1d21454440
+5411	5858	7180033479792753	qMap.exe	6d12b5589c51e4ca

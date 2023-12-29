@@ -1,0 +1,11 @@
+# ninja log v5
+2	1120	7179175626778220	type_cast_autogen/timestamp	883f9279bcafe352
+2	1120	7179175626778220	type_cast_autogen/mocs_compilation.cpp	883f9279bcafe352
+2	1120	7179175626778220	D:/QT_projects/build-type_cast-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/type_cast_autogen/timestamp	883f9279bcafe352
+2	1120	7179175626778220	D:/QT_projects/build-type_cast-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/type_cast_autogen/mocs_compilation.cpp	883f9279bcafe352
+1159	5879	7179175676306853	CMakeFiles/type_cast.dir/felino.cpp.obj	c0ed5f61b7515dc
+1131	6047	7179175677978567	CMakeFiles/type_cast.dir/cochedecarreras.cpp.obj	b136a26fcfc7d934
+1139	6049	7179175677978567	CMakeFiles/type_cast.dir/coche.cpp.obj	2d2faa65b2caa4f1
+1121	6259	7179175680115376	CMakeFiles/type_cast.dir/type_cast_autogen/mocs_compilation.cpp.obj	5331bff524596d6d
+1150	6751	7179175684991603	CMakeFiles/type_cast.dir/main.cpp.obj	a971be14acb35a2e
+6752	7053	7179175687940893	type_cast.exe	c22427c3974fffd

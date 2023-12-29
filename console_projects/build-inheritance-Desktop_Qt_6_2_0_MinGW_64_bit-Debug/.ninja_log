@@ -1,0 +1,10 @@
+# ninja log v5
+1	1053	7055626714990310	inheritance_autogen/timestamp	464c2666056a3a52
+1	1053	7055626714990310	inheritance_autogen/mocs_compilation.cpp	464c2666056a3a52
+1	1053	7055626714990310	D:/QT_projects/build-inheritance-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/inheritance_autogen/timestamp	464c2666056a3a52
+1	1053	7055626714990310	D:/QT_projects/build-inheritance-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/inheritance_autogen/mocs_compilation.cpp	464c2666056a3a52
+1064	5403	7055626760637016	CMakeFiles/inheritance.dir/inheritance_autogen/mocs_compilation.cpp.obj	266848ca708b7046
+1073	5420	7055626760815885	CMakeFiles/inheritance.dir/animal.cpp.obj	7895c89b68dc778e
+1082	5447	7055626761019211	CMakeFiles/inheritance.dir/mammal.cpp.obj	52bb344dd1b4121f
+1054	5821	7055626764824081	CMakeFiles/inheritance.dir/main.cpp.obj	73088482dce65760
+5822	6137	7055626767936890	inheritance.exe	c0315a0b74ab1771

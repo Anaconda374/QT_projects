@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>simbolos_graficos/accept.png</file>
+        <file>simbolos_graficos/cancel.png</file>
+        <file>simbolos_graficos/disk.png</file>
+        <file>simbolos_graficos/file.png</file>
+        <file>simbolos_graficos/folder.png</file>
+    </qresource>
+</RCC>

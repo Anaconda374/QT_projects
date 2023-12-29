@@ -1,0 +1,9 @@
+# ninja log v5
+3	1038	7054802826766758	class_Qt_autogen/timestamp	56421a84b0740eaa
+3	1038	7054802826766758	class_Qt_autogen/mocs_compilation.cpp	56421a84b0740eaa
+3	1038	7054802826766758	D:/QT_projects/build-class_Qt-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/class_Qt_autogen/timestamp	56421a84b0740eaa
+3	1038	7054802826766758	D:/QT_projects/build-class_Qt-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/class_Qt_autogen/mocs_compilation.cpp	56421a84b0740eaa
+1039	5788	7054802876048505	CMakeFiles/class_Qt.dir/class_Qt_autogen/mocs_compilation.cpp.obj	c4132bfec55de79
+1054	5799	7054802876204799	CMakeFiles/class_Qt.dir/testclass.cpp.obj	e1c0afb8788cb9a2
+1046	5824	7054802876463060	CMakeFiles/class_Qt.dir/main.cpp.obj	44a659c7b1933463
+5825	6585	7054802883946219	class_Qt.exe	28d7a00922b8d83f

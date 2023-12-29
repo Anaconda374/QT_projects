@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a270203299812f1ac49d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "signal_slot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "signal_slot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal_slot-Debug-25c13a86771576be9e7d.json",
+					"name" : "signal_slot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signal_slot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal_slot_autogen-Debug-85697affb30d1835782f.json",
+					"name" : "signal_slot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signal_slot_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal_slot_autogen_timestamp_deps-Debug-e542d7e1fb6e8d34966c.json",
+					"name" : "signal_slot_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT_projects/build-signal_slot-Desktop_Qt_6_2_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT_projects/signal_slot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

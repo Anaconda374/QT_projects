@@ -1,0 +1,20 @@
+# ninja log v5
+2	268	7174848456709790	input_output_autogen/timestamp	ab2083be30b6d74e
+2	268	7174848456709790	input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+2	268	7174848456709790	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/timestamp	ab2083be30b6d74e
+2	268	7174848456709790	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+275	369	7174848458484231	CMakeFiles/input_output.dir/input_output_autogen/mocs_compilation.cpp.obj	2bd5859bdba3b02a
+269	3012	7174848484861769	CMakeFiles/input_output.dir/main.cpp.obj	9983605ebc02e740
+3017	3191	7174848486682088	input_output.exe	dd139f0cf48c453a
+20	224	7174848874677448	input_output_autogen/timestamp	ab2083be30b6d74e
+20	224	7174848874677448	input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+20	224	7174848874677448	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/timestamp	ab2083be30b6d74e
+20	224	7174848874677448	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+226	3080	7174848903189219	CMakeFiles/input_output.dir/main.cpp.obj	9983605ebc02e740
+3081	3279	7174848905194663	input_output.exe	dd139f0cf48c453a
+15	180	7174849303388349	input_output_autogen/timestamp	ab2083be30b6d74e
+15	180	7174849303388349	input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+15	180	7174849303388349	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/timestamp	ab2083be30b6d74e
+15	180	7174849303388349	D:/QT_projects/build-input_output-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/input_output_autogen/mocs_compilation.cpp	ab2083be30b6d74e
+183	3018	7174849331793684	CMakeFiles/input_output.dir/main.cpp.obj	9983605ebc02e740
+3019	3195	7174849333383177	input_output.exe	dd139f0cf48c453a

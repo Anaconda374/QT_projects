@@ -1,0 +1,22 @@
+# ninja log v5
+2	935	7063430681709318	connection_autogen/timestamp	94d7f9a233c5aa8e
+2	935	7063430681709318	connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+2	935	7063430681709318	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/timestamp	94d7f9a233c5aa8e
+2	935	7063430681709318	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+942	4030	7063430714043326	CMakeFiles/connection.dir/connection_autogen/mocs_compilation.cpp.obj	c74620e4b8950dd6
+956	4036	7063430714043326	CMakeFiles/connection.dir/perro.cpp.obj	ae03e885fcec33d9
+950	4088	7063430714693103	CMakeFiles/connection.dir/dueno.cpp.obj	5bcd3ea845c94de5
+935	4438	7063430718194418	CMakeFiles/connection.dir/main.cpp.obj	fe9f8a4c93e84e45
+4458	4742	7063430721094987	connection.exe	72117f82cb1eea37
+6	347	7063437912592878	connection_autogen/timestamp	94d7f9a233c5aa8e
+6	347	7063437912592878	connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+6	347	7063437912592878	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/timestamp	94d7f9a233c5aa8e
+6	347	7063437912592878	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+351	3520	7063437944253603	CMakeFiles/connection.dir/main.cpp.obj	fe9f8a4c93e84e45
+3521	3799	7063437947037810	connection.exe	72117f82cb1eea37
+29	370	7064342117903518	connection_autogen/timestamp	94d7f9a233c5aa8e
+29	370	7064342117903518	connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+29	370	7064342117903518	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/timestamp	94d7f9a233c5aa8e
+29	370	7064342117903518	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/mocs_compilation.cpp	94d7f9a233c5aa8e
+374	4906	7064342163290976	CMakeFiles/connection.dir/main.cpp.obj	fe9f8a4c93e84e45
+4907	5733	7064342171506094	connection.exe	72117f82cb1eea37

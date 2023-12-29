@@ -1,0 +1,10 @@
+# ninja log v5
+1	929	7180018445869687	signal_slot_autogen/timestamp	3a299a4583135dfc
+1	929	7180018445869687	signal_slot_autogen/mocs_compilation.cpp	3a299a4583135dfc
+1	929	7180018445869687	D:/QT_projects/build-signal_slot-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/signal_slot_autogen/timestamp	3a299a4583135dfc
+1	929	7180018445869687	D:/QT_projects/build-signal_slot-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/signal_slot_autogen/mocs_compilation.cpp	3a299a4583135dfc
+950	4828	7180018486646686	CMakeFiles/signal_slot.dir/source.cpp.obj	3dfe768ba4d6a1ac
+959	4966	7180018488169101	CMakeFiles/signal_slot.dir/destination.cpp.obj	39eaf924ea620eef
+941	5148	7180018490007308	CMakeFiles/signal_slot.dir/signal_slot_autogen/mocs_compilation.cpp.obj	806bf7206e89b219
+930	5459	7180018493127168	CMakeFiles/signal_slot.dir/main.cpp.obj	5d79b3496f7b70e5
+5460	5772	7180018496269161	signal_slot.exe	6857c7db82f7a676

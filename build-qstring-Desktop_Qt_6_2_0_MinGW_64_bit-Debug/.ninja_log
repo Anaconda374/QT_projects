@@ -1,0 +1,23 @@
+# ninja log v5
+2	265	7180046739685443	qstring_autogen/timestamp	e529c1ab92ee7fd1
+2	265	7180046739685443	qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+2	265	7180046739685443	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/timestamp	e529c1ab92ee7fd1
+2	265	7180046739685443	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+273	365	7180046741504997	CMakeFiles/qstring.dir/qstring_autogen/mocs_compilation.cpp.obj	1bca60b3e68ff67c
+266	3241	7180046770115286	CMakeFiles/qstring.dir/main.cpp.obj	c75d3a0249c74ec3
+3264	3454	7180046772273970	qstring.exe	cb867a33b1b0dd73
+1	50	0	CMakeFiles/clean.additional	adcc2f785672e3a3
+50	66	0	clean	101d0f6048d5fe99
+40	284	7180048194222429	qstring_autogen/timestamp	e529c1ab92ee7fd1
+40	284	7180048194222429	qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+40	284	7180048194222429	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/timestamp	e529c1ab92ee7fd1
+40	284	7180048194222429	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+285	375	7180048195998895	CMakeFiles/qstring.dir/qstring_autogen/mocs_compilation.cpp.obj	1bca60b3e68ff67c
+292	3191	7180048224114969	CMakeFiles/qstring.dir/main.cpp.obj	c75d3a0249c74ec3
+3191	3372	7180048225880949	qstring.exe	cb867a33b1b0dd73
+6	222	7180054910588593	qstring_autogen/timestamp	e529c1ab92ee7fd1
+6	222	7180054910588593	qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+6	222	7180054910588593	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/timestamp	e529c1ab92ee7fd1
+6	222	7180054910588593	D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qstring_autogen/mocs_compilation.cpp	e529c1ab92ee7fd1
+224	3284	7180054941129499	CMakeFiles/qstring.dir/main.cpp.obj	c75d3a0249c74ec3
+3284	3470	7180054943032796	qstring.exe	cb867a33b1b0dd73

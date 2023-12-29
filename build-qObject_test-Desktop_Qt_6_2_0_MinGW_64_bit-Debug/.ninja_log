@@ -1,0 +1,9 @@
+# ninja log v5
+0	397	7176559620280563	qObject_test_autogen/timestamp	2f96becec69d7276
+0	397	7176559620280563	qObject_test_autogen/mocs_compilation.cpp	2f96becec69d7276
+0	397	7176559620280563	D:/QT_projects/build-qObject_test-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qObject_test_autogen/timestamp	2f96becec69d7276
+0	397	7176559620280563	D:/QT_projects/build-qObject_test-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qObject_test_autogen/mocs_compilation.cpp	2f96becec69d7276
+403	1959	7176559636533415	CMakeFiles/qObject_test.dir/qobject_test.cpp.obj	76a2c6eca40e8d1c
+400	1962	7176559636533415	CMakeFiles/qObject_test.dir/qObject_test_autogen/mocs_compilation.cpp.obj	2dbc05734504fc3b
+397	1967	7176559636749721	CMakeFiles/qObject_test.dir/main.cpp.obj	56fd176badd9d4d2
+1968	2429	7176559641266972	qObject_test.exe	147fa67521e1a389

@@ -1,0 +1,16 @@
+# ninja log v5
+2	858	7174823860830379	connection_autogen/timestamp	1aab6d51f299b629
+2	858	7174823860830379	connection_autogen/mocs_compilation.cpp	1aab6d51f299b629
+2	858	7174823860830379	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/timestamp	1aab6d51f299b629
+2	858	7174823860830379	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/mocs_compilation.cpp	1aab6d51f299b629
+882	3411	7174823887883272	CMakeFiles/connection.dir/dueno.cpp.obj	dcebd1014d0ca26f
+866	3426	7174823888004528	CMakeFiles/connection.dir/connection_autogen/mocs_compilation.cpp.obj	c74620e4b8950dd6
+874	3430	7174823888004528	CMakeFiles/connection.dir/perro.cpp.obj	d3dcc2b8e1d7b9e0
+859	3775	7174823891442259	CMakeFiles/connection.dir/main.cpp.obj	e3b9372d0631aa4
+3794	4102	7174823894690177	connection.exe	72117f82cb1eea37
+53	440	7174840893876179	connection_autogen/timestamp	1aab6d51f299b629
+53	440	7174840893876179	connection_autogen/mocs_compilation.cpp	1aab6d51f299b629
+53	440	7174840893876179	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/timestamp	1aab6d51f299b629
+53	440	7174840893876179	D:/QT_projects/build-connection-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/connection_autogen/mocs_compilation.cpp	1aab6d51f299b629
+445	3920	7174840928770046	CMakeFiles/connection.dir/main.cpp.obj	e3b9372d0631aa4
+3921	4176	7174840931232633	connection.exe	72117f82cb1eea37

@@ -1,0 +1,8 @@
+# ninja log v5
+1	281	7180044640379022	qStringList_autogen/timestamp	3c7ac618d54bfbdf
+1	281	7180044640379022	qStringList_autogen/mocs_compilation.cpp	3c7ac618d54bfbdf
+1	281	7180044640379022	D:/QT_projects/build-qStringList-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qStringList_autogen/timestamp	3c7ac618d54bfbdf
+1	281	7180044640379022	D:/QT_projects/build-qStringList-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qStringList_autogen/mocs_compilation.cpp	3c7ac618d54bfbdf
+288	400	7180044642423485	CMakeFiles/qStringList.dir/qStringList_autogen/mocs_compilation.cpp.obj	995b3741e23db12b
+282	4159	7180044679925048	CMakeFiles/qStringList.dir/main.cpp.obj	5d7fce21d34a23e
+4181	4390	7180044682100741	qStringList.exe	3b51363a7eb9a6bb

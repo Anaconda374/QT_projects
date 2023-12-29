@@ -1,0 +1,8 @@
+# ninja log v5
+2	270	7179179720129060	template_no_qobject_autogen/timestamp	b1a566e219e0d4f7
+2	270	7179179720129060	template_no_qobject_autogen/mocs_compilation.cpp	b1a566e219e0d4f7
+2	270	7179179720129060	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/timestamp	b1a566e219e0d4f7
+2	270	7179179720129060	D:/QT_projects/build-template_no_qobject-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/template_no_qobject_autogen/mocs_compilation.cpp	b1a566e219e0d4f7
+271	366	7179179721859110	CMakeFiles/template_no_qobject.dir/template_no_qobject_autogen/mocs_compilation.cpp.obj	5115074ecf7d5ec5
+277	3091	7179179749041269	CMakeFiles/template_no_qobject.dir/main.cpp.obj	c69afd333411ca77
+3096	3278	7179179750901392	template_no_qobject.exe	848c6487d344d3d1

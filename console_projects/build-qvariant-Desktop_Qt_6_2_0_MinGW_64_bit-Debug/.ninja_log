@@ -1,0 +1,18 @@
+# ninja log v5
+1	417	7070349814500407	qvariant_autogen/timestamp	d1f0042de2e74e8
+1	417	7070349814500407	qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+1	417	7070349814500407	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/timestamp	d1f0042de2e74e8
+1	417	7070349814500407	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+418	1013	7070349821329699	CMakeFiles/qvariant.dir/qvariant_autogen/mocs_compilation.cpp.obj	3cf13f13b97d361c
+424	3674	7070349847970311	CMakeFiles/qvariant.dir/main.cpp.obj	e6b40bedb81600d7
+3679	4204	7070349853156334	qvariant.exe	332c0c6c7366e851
+7	224	7070365066711920	qvariant_autogen/timestamp	d1f0042de2e74e8
+7	224	7070365066711920	qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+7	224	7070365066711920	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/timestamp	d1f0042de2e74e8
+7	224	7070365066711920	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+21	208	7070365195150543	qvariant_autogen/timestamp	d1f0042de2e74e8
+21	208	7070365195150543	qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+21	208	7070365195150543	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/timestamp	d1f0042de2e74e8
+21	208	7070365195150543	D:/QT_projects/build-qvariant-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qvariant_autogen/mocs_compilation.cpp	d1f0042de2e74e8
+210	3546	7070365228386257	CMakeFiles/qvariant.dir/main.cpp.obj	e6b40bedb81600d7
+3547	3761	7070365230539209	qvariant.exe	332c0c6c7366e851

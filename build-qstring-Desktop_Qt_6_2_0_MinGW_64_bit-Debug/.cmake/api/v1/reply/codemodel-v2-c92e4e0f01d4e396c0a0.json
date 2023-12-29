@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-09a60d5b2c457fb8604e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qstring",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qstring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qstring-Debug-358c167ca0103818837c.json",
+					"name" : "qstring",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qstring_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qstring_autogen-Debug-1295f4304ef59207783a.json",
+					"name" : "qstring_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qstring_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qstring_autogen_timestamp_deps-Debug-6a502f990a15bb1ba410.json",
+					"name" : "qstring_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT_projects/build-qstring-Desktop_Qt_6_2_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT_projects/console_projects/qstring"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

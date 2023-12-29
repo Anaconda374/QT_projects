@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BuscarDialogo</class>
+ <widget class="QDialog" name="BuscarDialogo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>513</width>
+    <height>226</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(173, 173, 173);
+color:rgb(27, 27, 27)</string>
+  </property>
+  <layout class="QFormLayout" name="formLayout">
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="etiquetaBuscar">
+       <property name="text">
+        <string>BuscarTexto</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="lineaBuscarTexto"/>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="btnDetras">
+       <property name="text">
+        <string>Buscar Detrás</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="btnAdelante">
+       <property name="text">
+        <string>Buscar Adelante</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="etiquetaReemplazar">
+       <property name="text">
+        <string>Reemplazar Texto</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLineEdit" name="lineaReemplazarTexto"/>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPushButton" name="btnReemplazar">
+       <property name="text">
+        <string>Reemplazar</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="3">
+      <widget class="QPushButton" name="btnReemplazarTodo">
+       <property name="text">
+        <string>Reemplazar_todo</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QCheckBox" name="cajaCoincide">
+       <property name="text">
+        <string>Coincide la palabra completa en buscar</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="cajaDistingue">
+       <property name="text">
+        <string>Distingue mayúsculas y minúsculas en buscar o reemplazar</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="2" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>388</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QPushButton" name="btnRechazar">
+       <property name="text">
+        <string>Rechazar</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

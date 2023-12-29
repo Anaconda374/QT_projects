@@ -1,0 +1,22 @@
+# ninja log v5
+2	958	7060874038974446	radio_station_demo_autogen/timestamp	2c9adf140f82a232
+2	958	7060874038974446	radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+2	958	7060874038974446	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/timestamp	2c9adf140f82a232
+2	958	7060874038974446	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+975	4328	7060874074231360	CMakeFiles/radio_station_demo.dir/station.cpp.obj	d3dfd25e9a3c254e
+984	4334	7060874074356472	CMakeFiles/radio_station_demo.dir/radio.cpp.obj	e56aeafaec174ae5
+967	4505	7060874075968667	CMakeFiles/radio_station_demo.dir/radio_station_demo_autogen/mocs_compilation.cpp.obj	abdf89976619e1fc
+959	4846	7060874079489635	CMakeFiles/radio_station_demo.dir/main.cpp.obj	d08d59757bca08ea
+4847	5177	7060874082719490	radio_station_demo.exe	8d2fb2d6b24a0453
+6	271	7060877472379605	radio_station_demo_autogen/timestamp	2c9adf140f82a232
+6	271	7060877472379605	radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+6	271	7060877472379605	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/timestamp	2c9adf140f82a232
+6	271	7060877472379605	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+275	3337	7060877503031105	CMakeFiles/radio_station_demo.dir/main.cpp.obj	d08d59757bca08ea
+3338	3630	7060877505904660	radio_station_demo.exe	8d2fb2d6b24a0453
+32	357	7061670493167447	radio_station_demo_autogen/timestamp	2c9adf140f82a232
+32	357	7061670493167447	radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+32	357	7061670493167447	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/timestamp	2c9adf140f82a232
+32	357	7061670493167447	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/mocs_compilation.cpp	2c9adf140f82a232
+361	4343	7061670533060451	CMakeFiles/radio_station_demo.dir/main.cpp.obj	d08d59757bca08ea
+4344	5252	7061670542070796	radio_station_demo.exe	8d2fb2d6b24a0453

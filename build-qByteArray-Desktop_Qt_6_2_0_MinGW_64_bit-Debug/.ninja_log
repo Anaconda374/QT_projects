@@ -1,0 +1,14 @@
+# ninja log v5
+1	266	7179209434933467	qByteArray_autogen/timestamp	6c6110259b779e85
+1	266	7179209434933467	qByteArray_autogen/mocs_compilation.cpp	6c6110259b779e85
+1	266	7179209434933467	D:/QT_projects/build-qByteArray-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qByteArray_autogen/timestamp	6c6110259b779e85
+1	266	7179209434933467	D:/QT_projects/build-qByteArray-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qByteArray_autogen/mocs_compilation.cpp	6c6110259b779e85
+273	375	7179209436738314	CMakeFiles/qByteArray.dir/qByteArray_autogen/mocs_compilation.cpp.obj	f30ba6532eff9b56
+266	3211	7179209465107739	CMakeFiles/qByteArray.dir/main.cpp.obj	874e156d3ea7f233
+3217	3405	7179209466945937	qByteArray.exe	bf5e85c9bcedba34
+21	220	7179210836453109	qByteArray_autogen/timestamp	6c6110259b779e85
+21	220	7179210836453109	qByteArray_autogen/mocs_compilation.cpp	6c6110259b779e85
+21	220	7179210836453109	D:/QT_projects/build-qByteArray-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qByteArray_autogen/timestamp	6c6110259b779e85
+21	220	7179210836453109	D:/QT_projects/build-qByteArray-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/qByteArray_autogen/mocs_compilation.cpp	6c6110259b779e85
+223	3103	7179210865244610	CMakeFiles/qByteArray.dir/main.cpp.obj	874e156d3ea7f233
+3103	3279	7179210867018046	qByteArray.exe	bf5e85c9bcedba34

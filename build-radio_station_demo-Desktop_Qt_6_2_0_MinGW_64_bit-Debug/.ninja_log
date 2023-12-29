@@ -1,0 +1,10 @@
+# ninja log v5
+2	3005	7177651791371337	radio_station_demo_autogen/timestamp	11b3c3415ddd9145
+2	3005	7177651791371337	radio_station_demo_autogen/mocs_compilation.cpp	11b3c3415ddd9145
+2	3005	7177651791371337	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/timestamp	11b3c3415ddd9145
+2	3005	7177651791371337	D:/QT_projects/build-radio_station_demo-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/radio_station_demo_autogen/mocs_compilation.cpp	11b3c3415ddd9145
+3006	6387	7177651826840785	CMakeFiles/radio_station_demo.dir/radio_station_demo_autogen/mocs_compilation.cpp.obj	abdf89976619e1fc
+3021	6401	7177651826997570	CMakeFiles/radio_station_demo.dir/radio.cpp.obj	5e82ac75b2b6582a
+3028	6427	7177651827210196	CMakeFiles/radio_station_demo.dir/station.cpp.obj	eeb662b4a96544cf
+3012	6533	7177651828410716	CMakeFiles/radio_station_demo.dir/main.cpp.obj	587364eae318183e
+6534	7148	7177651834483039	radio_station_demo.exe	8d2fb2d6b24a0453
