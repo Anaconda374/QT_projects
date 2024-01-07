@@ -28,7 +28,6 @@ class Ui_Calculadora
 {
 public:
     QWidget *centralwidget;
-    QWidget *widget;
     QVBoxLayout *verticalLayout;
     QListWidget *listWidget;
     QGridLayout *numeroPanel;
@@ -50,13 +49,9 @@ public:
 "color: rgb(56, 56, 56);"));
         centralwidget = new QWidget(Calculadora);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
-        widget = new QWidget(centralwidget);
-        widget->setObjectName(QString::fromUtf8("widget"));
-        widget->setGeometry(QRect(11, 11, 451, 361));
-        verticalLayout = new QVBoxLayout(widget);
+        verticalLayout = new QVBoxLayout(centralwidget);
         verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
-        verticalLayout->setContentsMargins(0, 0, 0, 0);
-        listWidget = new QListWidget(widget);
+        listWidget = new QListWidget(centralwidget);
         listWidget->setObjectName(QString::fromUtf8("listWidget"));
 
         verticalLayout->addWidget(listWidget);
@@ -73,7 +68,7 @@ public:
 
         horizontalLayout = new QHBoxLayout();
         horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
-        btnNueva = new QPushButton(widget);
+        btnNueva = new QPushButton(centralwidget);
         btnNueva->setObjectName(QString::fromUtf8("btnNueva"));
 
         horizontalLayout->addWidget(btnNueva);
@@ -82,12 +77,12 @@ public:
 
         horizontalLayout->addItem(horizontalSpacer);
 
-        btnLimpiar = new QPushButton(widget);
+        btnLimpiar = new QPushButton(centralwidget);
         btnLimpiar->setObjectName(QString::fromUtf8("btnLimpiar"));
 
         horizontalLayout->addWidget(btnLimpiar);
 
-        btnAceptar = new QPushButton(widget);
+        btnAceptar = new QPushButton(centralwidget);
         btnAceptar->setObjectName(QString::fromUtf8("btnAceptar"));
 
         horizontalLayout->addWidget(btnAceptar);

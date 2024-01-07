@@ -120,7 +120,7 @@ Ecuacion::Accion Ecuacion::accion() const
     return m_accion;
 }
 
-void Ecuacion::setAccion(Ecuacion::Accion &newAccion)
+void Ecuacion::setAccion(const Ecuacion::Accion &newAccion)
 {
     m_accion = newAccion;
 }

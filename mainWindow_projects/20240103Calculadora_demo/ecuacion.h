@@ -13,9 +13,7 @@ public:
 
     enum Accion {Nada, Reiniciar, Sumar, Sustraer, Multiplicar, Dividir};
 
-    void calcular();
 
-    QString toString();
 
     QString valor1() const;
     void setValor1(const QString &newValor1);
@@ -26,11 +24,15 @@ public:
     void setValor2(const QString &newValor2);
 
     Ecuacion::Accion accion() const;
-    void setAccion(Ecuacion::Accion &newAccion);
+    void setAccion(const Ecuacion::Accion &newAccion);
 
 
     QString resultado() const;
     void setResultado(const QString &newResultado);
+
+    void calcular();
+
+    QString toString();
 
 signals:
 

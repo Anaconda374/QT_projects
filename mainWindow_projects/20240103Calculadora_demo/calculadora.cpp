@@ -53,7 +53,9 @@ void Calculadora::actualizar()
     }
     else{ //si es sincronizado, solo actualizar la nueva ecuación.
         ui->listWidget->setCurrentRow(ui->listWidget->count() - 1); //mover el cursor a la última fila.
-        ui->listWidget->item(ui->listWidget->count())->setText(m_lista.last()->toString());
+
+        //NOTA: Cuando el bucle
+        ui->listWidget->item(ui->listWidget->count() - 1)->setText(m_lista.last()->toString());
     }
 
 }
